@@ -1,0 +1,5 @@
+numpy
+websocket-client
+pyTelegramBotAPI
+python-dotenv
+pandas

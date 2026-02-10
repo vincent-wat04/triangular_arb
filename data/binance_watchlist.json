@@ -1,0 +1,262 @@
+{
+  "binance_watchlist": [
+    "BTCUSDT",
+    "ADAUSDT",
+    "XRPUSDT",
+    "XLMUSDT",
+    "TRXUSDT",
+    "USDCUSDT",
+    "LINKUSDT",
+    "LINKUSDC",
+    "TRXUSDC",
+    "ADAUSDC",
+    "DOGEUSDT",
+    "BTCTRY",
+    "XRPTRY",
+    "USDTTRY",
+    "EURUSDT",
+    "SOLUSDT",
+    "AVAXUSDT",
+    "USDTBRL",
+    "AVAXTRY",
+    "TRXTRY",
+    "XLMTRY",
+    "DOGETRY",
+    "ADATRY",
+    "SOLUSDC",
+    "USDTARS",
+    "BTCARS",
+    "FDUSDUSDT",
+    "SEITRY",
+    "SEIUSDT",
+    "SOLFDUSD",
+    "FDUSDTRY",
+    "BONKUSDT",
+    "BONKTRY",
+    "AVAXUSDC",
+    "EURUSDC",
+    "BONKUSDC",
+    "ENAUSDT",
+    "ENATRY",
+    "TAOUSDT",
+    "USDCTRY",
+    "FDUSDUSDC",
+    "TAOUSDC",
+    "SOLARS",
+    "USD1USDT",
+    "USDCBRL",
+    "USDEUSDC",
+    "USDEUSDT",
+    "USD1USDC",
+    "USDTIDR",
+    "USDCIDR",
+    "SOLIDR"
+  ],
+  "pair_to_base_quote": {
+    "BTCUSDT": [
+      "BTC",
+      "USDT"
+    ],
+    "ADAUSDT": [
+      "ADA",
+      "USDT"
+    ],
+    "XRPUSDT": [
+      "XRP",
+      "USDT"
+    ],
+    "XLMUSDT": [
+      "XLM",
+      "USDT"
+    ],
+    "TRXUSDT": [
+      "TRX",
+      "USDT"
+    ],
+    "USDCUSDT": [
+      "USDC",
+      "USDT"
+    ],
+    "LINKUSDT": [
+      "LINK",
+      "USDT"
+    ],
+    "LINKUSDC": [
+      "LINK",
+      "USDC"
+    ],
+    "TRXUSDC": [
+      "TRX",
+      "USDC"
+    ],
+    "ADAUSDC": [
+      "ADA",
+      "USDC"
+    ],
+    "DOGEUSDT": [
+      "DOGE",
+      "USDT"
+    ],
+    "BTCTRY": [
+      "BTC",
+      "TRY"
+    ],
+    "XRPTRY": [
+      "XRP",
+      "TRY"
+    ],
+    "USDTTRY": [
+      "USDT",
+      "TRY"
+    ],
+    "EURUSDT": [
+      "EUR",
+      "USDT"
+    ],
+    "SOLUSDT": [
+      "SOL",
+      "USDT"
+    ],
+    "AVAXUSDT": [
+      "AVAX",
+      "USDT"
+    ],
+    "USDTBRL": [
+      "USDT",
+      "BRL"
+    ],
+    "AVAXTRY": [
+      "AVAX",
+      "TRY"
+    ],
+    "TRXTRY": [
+      "TRX",
+      "TRY"
+    ],
+    "XLMTRY": [
+      "XLM",
+      "TRY"
+    ],
+    "DOGETRY": [
+      "DOGE",
+      "TRY"
+    ],
+    "ADATRY": [
+      "ADA",
+      "TRY"
+    ],
+    "SOLUSDC": [
+      "SOL",
+      "USDC"
+    ],
+    "USDTARS": [
+      "USDT",
+      "ARS"
+    ],
+    "BTCARS": [
+      "BTC",
+      "ARS"
+    ],
+    "FDUSDUSDT": [
+      "FDUSD",
+      "USDT"
+    ],
+    "SEITRY": [
+      "SEI",
+      "TRY"
+    ],
+    "SEIUSDT": [
+      "SEI",
+      "USDT"
+    ],
+    "SOLFDUSD": [
+      "SOL",
+      "FDUSD"
+    ],
+    "FDUSDTRY": [
+      "FDUSD",
+      "TRY"
+    ],
+    "BONKUSDT": [
+      "BONK",
+      "USDT"
+    ],
+    "BONKTRY": [
+      "BONK",
+      "TRY"
+    ],
+    "AVAXUSDC": [
+      "AVAX",
+      "USDC"
+    ],
+    "EURUSDC": [
+      "EUR",
+      "USDC"
+    ],
+    "BONKUSDC": [
+      "BONK",
+      "USDC"
+    ],
+    "ENAUSDT": [
+      "ENA",
+      "USDT"
+    ],
+    "ENATRY": [
+      "ENA",
+      "TRY"
+    ],
+    "TAOUSDT": [
+      "TAO",
+      "USDT"
+    ],
+    "USDCTRY": [
+      "USDC",
+      "TRY"
+    ],
+    "FDUSDUSDC": [
+      "FDUSD",
+      "USDC"
+    ],
+    "TAOUSDC": [
+      "TAO",
+      "USDC"
+    ],
+    "SOLARS": [
+      "SOL",
+      "ARS"
+    ],
+    "USD1USDT": [
+      "USD1",
+      "USDT"
+    ],
+    "USDCBRL": [
+      "USDC",
+      "BRL"
+    ],
+    "USDEUSDC": [
+      "USDE",
+      "USDC"
+    ],
+    "USDEUSDT": [
+      "USDE",
+      "USDT"
+    ],
+    "USD1USDC": [
+      "USD1",
+      "USDC"
+    ],
+    "USDTIDR": [
+      "USDT",
+      "IDR"
+    ],
+    "USDCIDR": [
+      "USDC",
+      "IDR"
+    ],
+    "SOLIDR": [
+      "SOL",
+      "IDR"
+    ]
+  },
+  "generated_at_utc": "2026-01-14T11:54:45.482330Z"
+}

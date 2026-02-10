@@ -1,0 +1,28 @@
+{
+  "updated_at": "2024-01-01T12:00:00Z",
+  "prices": [
+    {
+      "symbol": "btcusdt",
+      "bid": 42000.0,
+      "ask": 42001.0,
+      "mid": 42000.5,
+      "ts": "2024-01-01T12:00:00Z"
+    }
+  ],
+  "vector_results": [
+    {
+      "triangle": "BTC-USDT-ETH",
+      "profit": 0.12,
+      "log_return": 0.0012,
+      "ts": "2024-01-01T12:00:00Z"
+    }
+  ],
+  "opportunities": [
+    {
+      "triangle": "BTC-USDT-ETH",
+      "profit": 0.12,
+      "path": "BTC->USDT->ETH->BTC",
+      "ts": "2024-01-01T12:00:00Z"
+    }
+  ]
+}
